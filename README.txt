@@ -1,4 +1,4 @@
-# These are the project files for the project and section they are featured in
+# These are the project files 
 
 # Install the dependencies
 
